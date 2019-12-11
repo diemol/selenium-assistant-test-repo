@@ -3,12 +3,12 @@
 # Comment to greet any user creating a new issue. Set to `false` to disable
 openIssueGreetingComment: >
   👋 Hi there! Thank you for creating this issue.
+
   I am the Selenium Assistant Bot 🤖, I help maintainers triage issues in
   this repository. If I can't do it, I leave a label to help maintainers
   identify issues that need triaging.
 
-  I am an Open Source project 🙌, post bugs or improvements ideas at
-  https://github.com/SeleniumHQ/selenium-assistant!
+  I am an Open Source project 🙌, post bugs or improvements ideas [here](https://github.com/SeleniumHQ/selenium-assistant)!
 
 
 # Is the assistant actively closing any new open issues requesting support or asking questions?
@@ -23,6 +23,6 @@ closeQuestionsAndSupportRequestsComment: >
   or you could join us in the 🗣[IRC/Slack channel](https://seleniumhq.herokuapp.com/)
   where the community can help you as well.
 
-  If you think this is wrong, please feel free to open a new issue.
+  If you think I did wrong, please feel free to open a new issue.
 
   Thank you for your contributions.
