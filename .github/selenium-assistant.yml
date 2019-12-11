@@ -5,9 +5,8 @@ openIssueGreetingComment: >
   👋 Hi there! Thank you for creating this issue.
 
 
-  I am the Selenium Assistant Bot 🤖, I help maintainers triage issues in
-  this repository. If I can't do it, I label it to help maintainers
-  identify issues that need triaging.
+  I am the Selenium Assistant Bot 🤖, I triage issues in this repository.
+  If I can't do it, I label it to help maintainers identify issues that need triaging.
 
 
   I am an Open Source project 🙌, post bugs or ideas [here](https://github.com/SeleniumHQ/selenium-assistant)!
