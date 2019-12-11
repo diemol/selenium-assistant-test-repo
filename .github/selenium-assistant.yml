@@ -4,9 +4,11 @@
 openIssueGreetingComment: >
   👋 Hi there! Thank you for creating this issue.
 
+
   I am the Selenium Assistant Bot 🤖, I help maintainers triage issues in
   this repository. If I can't do it, I leave a label to help maintainers
   identify issues that need triaging.
+
 
   I am an Open Source project 🙌, post bugs or improvements ideas [here](https://github.com/SeleniumHQ/selenium-assistant)!
 
@@ -15,7 +17,8 @@ openIssueGreetingComment: >
 closeQuestionsAndSupportRequests: true
 
 closeQuestionsAndSupportRequestsComment: >
-  It looks like this is a request for support 💬 or a question ❓.
+  💬❓ It looks like this is a request for support or a question.
+
 
   💡A better way to address this is to send questions and support requests to the
   📫[Selenium user group](https://groups.google.com/forum/#!forum/selenium-users),
@@ -23,6 +26,8 @@ closeQuestionsAndSupportRequestsComment: >
   or you could join us in the 🗣[IRC/Slack channel](https://seleniumhq.herokuapp.com/)
   where the community can help you as well.
 
+
   If you think I did wrong, please feel free to open a new issue.
+
 
   Thank you for your contributions.
