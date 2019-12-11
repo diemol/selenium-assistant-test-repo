@@ -17,10 +17,10 @@ openIssueGreetingComment: >
 closeQuestionsAndSupportRequests: true
 
 closeQuestionsAndSupportRequestsComment: >
-  💬❓ It looks like this is a request for support or a question.
+  💬 It looks like this is a request for support or a question
 
 
-  💡A better way to address this is:
+  💡 A better way to address this is:
   * 📫 Send questions and support requests to the [Selenium user group](https://groups.google.com/forum/#!forum/selenium-users)
   * 📮 Post them to [StackOverflow](https://stackoverflow.com/questions/tagged/selenium)
   * 🗣 Join us in the [IRC/Slack channel](https://seleniumhq.herokuapp.com/) where the community can help you as well.
