@@ -20,11 +20,10 @@ closeQuestionsAndSupportRequestsComment: >
   💬❓ It looks like this is a request for support or a question.
 
 
-  💡A better way to address this is to send questions and support requests to the
-  📫[Selenium user group](https://groups.google.com/forum/#!forum/selenium-users),
-  to [StackOverflow](https://stackoverflow.com/questions/tagged/selenium),
-  or you could join us in the 🗣[IRC/Slack channel](https://seleniumhq.herokuapp.com/)
-  where the community can help you as well.
+  💡A better way to address this is:
+  * 📫 Send questions and support requests to the [Selenium user group](https://groups.google.com/forum/#!forum/selenium-users)
+  * 📮 Post them to [StackOverflow](https://stackoverflow.com/questions/tagged/selenium)
+  * 🗣 Join us in the [IRC/Slack channel](https://seleniumhq.herokuapp.com/) where the community can help you as well.
 
 
   If you think I did wrong, please feel free to open a new issue.
